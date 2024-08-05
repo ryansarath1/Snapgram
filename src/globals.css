@@ -10,3 +10,13 @@
     background-color: #1a1a1a;
   }
 }
+body {
+  background-color: white;
+}
+h1 {
+  color: aliceblue;
+  text-align: center;
+}
+.flex {
+  display: flex;
+}
